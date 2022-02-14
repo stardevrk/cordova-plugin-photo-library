@@ -10,5 +10,4 @@ struct PhotoLibraryGetLibraryOptions {
     let includeAlbumData: Bool
     let includeCloudData: Bool
     let includeVideos: Bool
-    let maxItems: Int
 }
